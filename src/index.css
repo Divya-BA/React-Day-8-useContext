@@ -1,6 +1,4 @@
-/* index.css */
 
-/* Reset some default styles */
 body,
 h1, h2, h3, h4, h5, h6,
 p, figure {
@@ -8,12 +6,12 @@ p, figure {
   padding: 0;
 }
 
-/* Apply a global font */
+
 body {
   font-family: Arial, sans-serif;
 }
 
-/* Basic styling for layout */
+
 .app {
   display: flex;
   justify-content: space-between;
@@ -31,7 +29,7 @@ body {
   clear: both;
 }
 
-/* Product component styles */
+
 .product {
   border: 1px solid #ccc;
   padding: 20px;
@@ -61,7 +59,7 @@ body {
   background-color: #0056b3;
 }
 
-/* Cart component styles */
+
 .cart {
   border: 1px solid #ccc;
   padding: 20px;
