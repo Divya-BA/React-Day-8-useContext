@@ -1,4 +1,4 @@
-// App.js
+
 import React from 'react';
 import { CartProvider } from './CartContext';
 import Product from './Product';
